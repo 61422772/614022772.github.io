@@ -1,0 +1,49 @@
+@font-face{
+	font-family:	qigongti;
+	src:	url(FZQTJW.ttf),
+		url("http://foundertype-bk4.oss-cn-beijing.aliyuncs.com/fontmanage/TTF/FZQTJW.TTF");
+}
+			body{
+				background-color:PowderBlue;
+				margin-left: 25%;
+				margin-right: 25%;
+				border: 2px solid white;
+				padding : 10px 30px 10px 30px;
+				font-family:	 qigongti,	Verdana,	Geneva,	Arial,	sans-serif;
+			}
+			h1{
+				font-size:	80px;
+				text-decoration:	underline;
+				color:		red;
+				border-bottom:	1px dotted black;
+			}
+			h2{
+				font-size:	50px;
+				
+				color:		black;
+				
+			}
+			p{
+				color:	black;
+				
+				font-size:	25px;
+			}
+			blockquote{
+				background-color:	white;
+			}
+			li{
+				font-family:	Times New Roman;
+				
+			}
+.pink{
+background-color:	pink;
+}
+.italic{
+font-style:	italic;
+}
+.fat{
+font-weight:	bold;
+}
+.through{
+text-decoration:line-through;
+}
